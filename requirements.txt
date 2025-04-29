@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow==2.12.0
+transformers==4.30.0
+pydantic
+python-jose[cryptography]
+python-dotenv
+numpy
+keras==2.12.0
+PyJWT
