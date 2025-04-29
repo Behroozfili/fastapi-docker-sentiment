@@ -46,9 +46,3 @@ def predict_sentiment(request: SentimentRequest):
     sentiment, score = get_sentiment(request.text)
     return SentimentResponse(sentiment=sentiment, score=score)
 
-def main():
-    print("Hello, World!")
-
-def broken_function():
-    # این تابع عمداً ارور می‌دهد
-    return 1 / 0  # تقسیم بر صفر
