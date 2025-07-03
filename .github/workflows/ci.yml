@@ -3,7 +3,7 @@ name: CI Pipeline
 on:
   push:
     branches:
-      - master
+      - never-run-this-branch
   pull_request:
     branches:
       - master
