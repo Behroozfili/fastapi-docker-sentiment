@@ -438,7 +438,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-### 🌟 If this project helped you, please give it a star! ⭐
+
 
 **Made with ❤️ by [Behrooz Filzadeh](mailto:behrooz.filzadeh@gmail.com)**
 
